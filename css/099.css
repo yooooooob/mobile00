@@ -102,7 +102,7 @@ header .inner .pc .gnb .depth01 .depth02 li {
 
         position: fixed;
         top: 0;
-        right: 0;
+        right: -100%;
 
         background-color: antiquewhite;
 
